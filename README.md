@@ -4,9 +4,9 @@ A collection of Python automation scripts using **boto3** (AWS SDK) and **parami
 
 ---
 
-## 📂 Script Overview
+## Script Overview
 
-### 🟦 AWS (boto3) Scripts
+### AWS (boto3) Scripts
 | File | Description |
 |------|--------------|
 | `ec2_start_stop.py` | Start or stop EC2 instances based on tag filters. |
@@ -16,14 +16,14 @@ A collection of Python automation scripts using **boto3** (AWS SDK) and **parami
 
 ---
 
-### 🟩 SSH (paramiko) Scripts
+### SSH (paramiko) Scripts
 | File | Description |
 |------|--------------|
 | `parallel_ssh.py` | Run a shell command across multiple hosts concurrently over SSH. |
 
 ---
 
-## ⚙️ AWS Credentials Setup
+## AWS Credentials Setup
 
 To allow the boto3 scripts to authenticate with AWS, configure your credentials locally.
 
